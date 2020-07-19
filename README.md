@@ -1,8 +1,8 @@
+![Alt Text](https://media.giphy.com/media/l4FsCR2hFJnGh18IM/giphy.gif)
+
 ### Hi there 👋
 
 Test driving profile README...
-
-![Alt Text](https://media.giphy.com/media/l4FsCR2hFJnGh18IM/giphy.gif)
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
