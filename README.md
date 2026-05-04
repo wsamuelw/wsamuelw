@@ -17,8 +17,6 @@ Data science career growth, LLM‑powered applications, or turning messy data in
 📫 **Let’s connect**  
 [X/Twitter](https://x.com/samuel_wong_) · [LinkedIn](https://www.linkedin.com/in/-samuel-wong/)
 
-😄 **Pronouns:** He/Him
-
 ⚡ **Fun fact**  
 I’m currently mentoring 10+ rising data professionals – mostly over Google Meet and an unhealthy amount of coffee ☕
 
