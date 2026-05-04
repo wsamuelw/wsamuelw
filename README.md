@@ -9,7 +9,7 @@
 - 💬 Ask me about "anything"
 - 📫 How to reach me: X/Linkedin
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: Currently mentoring/coaching 10+ people (most on Google Meet)
+- ⚡ Fun fact: Currently mentoring/coaching 10+ people (mostly Google Meet)
 
 <!--
 **wsamuelw/wsamuelw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
