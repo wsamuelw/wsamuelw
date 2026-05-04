@@ -2,14 +2,25 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on AI projects, mentoring emerging data professionals, consulting/advising (mostly DS/AI)
-- 🌱 I’m currently learning Claude Code, Codex, MCP etc.
-- 👯 I’m looking to collaborate on DS/AI
-- 🤔 I’m looking for help with someone making good coffees
-- 💬 Ask me about "anything"
-- 📫 How to reach me: X/Linkedin
-- 😄 Pronouns: He/Him
-- ⚡ Fun fact: Currently mentoring/coaching 10+ people (mostly Google Meet)
+🔭 **What I do**  
+Building AI products, mentoring early-career data professionals, and consulting on data science & AI strategy.
+
+🌱 **Currently exploring**  
+Claude Code, Codex, MCP, and agentic workflows.
+
+👯 **Looking to collaborate on**  
+Real-world DS/AI projects, open‑source tools, and knowledge‑sharing content (blogs, talks, workshops).
+
+💬 **Ask me about**  
+Data science career growth, LLM‑powered applications, or turning messy data into decisions.
+
+📫 **Let’s connect**  
+[X/Twitter](https://x.com/samuel_wong_) · [LinkedIn](https://www.linkedin.com/in/-samuel-wong/)
+
+😄 **Pronouns:** He/Him
+
+⚡ **Fun fact**  
+I’m currently mentoring 10+ rising data professionals – mostly over Google Meet and an unhealthy amount of coffee ☕
 
 <!--
 **wsamuelw/wsamuelw** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
