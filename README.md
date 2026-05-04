@@ -2,7 +2,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on a long list of AI projects, mentoring emerging data professionals, consulting/advising (most DS/AI)
+- 🔭 I’m currently working on AI projects, mentoring emerging data professionals, consulting/advising (mostly DS/AI)
 - 🌱 I’m currently learning Claude Code, Codex, MCP etc.
 - 👯 I’m looking to collaborate on DS/AI
 - 🤔 I’m looking for help with someone making good coffees
