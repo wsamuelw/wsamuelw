@@ -35,7 +35,7 @@ I'm currently mentoring 10+ rising data professionals – mostly over Google Mee
 ### Data Science & ML (Python)
 - [autokeras-text-classification-demo](https://github.com/wsamuelw/autokeras-text-classification-demo) — Text classification with AutoKeras
 - [pycaret-demo](https://github.com/wsamuelw/pycaret-demo) — AutoML with PyCaret on Google Colab
-- [lazypredict-demo](https://github.com/wsamuelw/lazypredict-demo) — Quick model comparison with LazyPredict
+- [lazypredict](https://github.com/wsamuelw/lazypredict) — Quick model comparison with LazyPredict
 - [prophet-time-series](https://github.com/wsamuelw/prophet-time-series) — Time series forecasting with Meta Prophet
 - [regression-using-tensorflow](https://github.com/wsamuelw/regression-using-tensorflow) — Regression model with TensorFlow and Keras
 - [review-data-using-SVC](https://github.com/wsamuelw/review-data-using-SVC) — Sentiment prediction from reviews using SVM
