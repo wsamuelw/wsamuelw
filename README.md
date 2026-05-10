@@ -34,19 +34,19 @@ I'm currently mentoring 10+ rising data professionals – mostly over Google Mee
 
 ### Data Science & ML (Python)
 - [autokeras-text-classification](https://github.com/wsamuelw/autokeras-text-classification) — Text classification with AutoKeras
-- [pycaret-demo](https://github.com/wsamuelw/pycaret-demo) — AutoML with PyCaret on Google Colab
+- [pycaret](https://github.com/wsamuelw/pycaret) — AutoML with PyCaret on Google Colab
 - [lazypredict](https://github.com/wsamuelw/lazypredict) — Quick model comparison with LazyPredict
 - [prophet-time-series](https://github.com/wsamuelw/prophet-time-series) — Time series forecasting with Meta Prophet
 - [regression-using-tensorflow](https://github.com/wsamuelw/regression-using-tensorflow) — Regression model with TensorFlow and Keras
 - [review-data-using-SVC](https://github.com/wsamuelw/review-data-using-SVC) — Sentiment prediction from reviews using SVM
-- [dython-demo](https://github.com/wsamuelw/dython-demo) — Correlation analysis for categorical variables
+- [dython](https://github.com/wsamuelw/dython) — Correlation analysis for categorical variables
 - [google-cloud-vision](https://github.com/wsamuelw/google-cloud-vision) — Image labelling with Google Cloud Vision API
 
 ### Data Science & ML (R)
 - [ml-with-r](https://github.com/wsamuelw/ml-with-r) — Common ML algorithms implemented in R
 - [kaggle-predict-house-prices](https://github.com/wsamuelw/kaggle-predict-house-prices) — House price prediction with regression models
 - [predict-marketing-response-with-xgboost](https://github.com/wsamuelw/predict-marketing-response-with-xgboost) — Marketing response prediction with XGBoost
-- [tidymodels-demo](https://github.com/wsamuelw/tidymodels-demo) — Tree-based models with tidymodels
+- [tidymodels](https://github.com/wsamuelw/tidymodels) — Tree-based models with tidymodels
 - [model-studio](https://github.com/wsamuelw/model-studio) — Model explainability with DALEX
 - [linear-regression-in-r](https://github.com/wsamuelw/linear-regression-in-r) — Simple linear regression tutorial
 - [logistic-regression-in-r](https://github.com/wsamuelw/logistic-regression-in-r) — Logistic regression tutorial
