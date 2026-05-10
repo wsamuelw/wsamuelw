@@ -27,6 +27,7 @@ I'm currently mentoring 10+ rising data professionals – mostly over Google Mee
 ### AI & LLM Tools
 - [lux-tts](https://github.com/wsamuelw/lux-tts) — Voice cloning in Google Colab from a short audio sample, no GPU required
 - [persona](https://github.com/wsamuelw/persona) — Synthetic persona generation and interview skill for Claude Code
+- [melbourne-property-intelligence](https://github.com/wsamuelw/melbourne-property-intelligence) — LLM-powered property market intelligence with RAG, FastAPI, and Streamlit
 
 ### EdTech
 - [how-to-spell](https://github.com/wsamuelw/how-to-spell) — Web app for kids to learn spelling by speaking
