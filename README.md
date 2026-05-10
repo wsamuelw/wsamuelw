@@ -33,7 +33,7 @@ I'm currently mentoring 10+ rising data professionals – mostly over Google Mee
 - [money-game](https://github.com/wsamuelw/money-game) — Teach young kids about coins
 
 ### Data Science & ML (Python)
-- [autokeras-text-classification-demo](https://github.com/wsamuelw/autokeras-text-classification-demo) — Text classification with AutoKeras
+- [autokeras-text-classification](https://github.com/wsamuelw/autokeras-text-classification) — Text classification with AutoKeras
 - [pycaret-demo](https://github.com/wsamuelw/pycaret-demo) — AutoML with PyCaret on Google Colab
 - [lazypredict](https://github.com/wsamuelw/lazypredict) — Quick model comparison with LazyPredict
 - [prophet-time-series](https://github.com/wsamuelw/prophet-time-series) — Time series forecasting with Meta Prophet
