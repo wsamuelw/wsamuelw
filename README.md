@@ -6,7 +6,7 @@
 Building AI products, mentoring early-career data professionals, and consulting on data science & AI strategy.
 
 🌱 **Currently exploring**
-Claude Code, Codex, MCP, and agentic workflows.
+Claude Code, Hermes Agent Desktop, Codex, MCP, and agentic workflows.
 
 👯 **Looking to collaborate on**
 Real-world DS/AI projects, open‑source tools, and knowledge‑sharing content (blogs, talks, workshops).
