@@ -34,11 +34,6 @@ I'm currently mentoring 10+ rising data professionals – mostly over Google Mee
 - [persona](https://github.com/wsamuelw/persona) — Synthetic persona generation and interview skill for Claude Code
 - [melbourne-property-intelligence](https://github.com/wsamuelw/melbourne-property-intelligence) — LLM-powered property market intelligence with RAG, FastAPI, and Streamlit
 
-### EdTech
-- [ai-for-kids](https://github.com/wsamuelw/ai-for-kids) — Fun, interactive course teaching kids aged 5-7 about Artificial Intelligence
-- [how-to-spell](https://github.com/wsamuelw/how-to-spell) — Voice-powered spelling helper for kids — tap the mic, say a word, see it spelled
-- [sql-for-everyone](https://github.com/wsamuelw/sql-for-everyone) — Interactive SQL course for non-technical business professionals
-
 ### Data Science & ML (Python)
 - [autokeras-text-classification](https://github.com/wsamuelw/autokeras-text-classification) — Spam detection and product review analysis with zero architecture decisions
 - [pycaret](https://github.com/wsamuelw/pycaret) — Predicting employee attrition — comparing 10+ classifiers with SHAP interpretability
@@ -61,6 +56,9 @@ I'm currently mentoring 10+ rising data professionals – mostly over Google Mee
 
 ### Side Projects
 - [puff](https://github.com/wsamuelw/puff) — Progressive web app that helps you quit smoking by simulating the cigarette experience
+- [ai-for-kids](https://github.com/wsamuelw/ai-for-kids) — Fun, interactive course teaching kids aged 5-7 about Artificial Intelligence
+- [how-to-spell](https://github.com/wsamuelw/how-to-spell) — Voice-powered spelling helper for kids — tap the mic, say a word, see it spelled
+- [sql-for-everyone](https://github.com/wsamuelw/sql-for-everyone) — Interactive SQL course for non-technical business professionals
 - [claude-code-dashboard](https://github.com/wsamuelw/claude-code-dashboard) — Interactive token usage dashboard for Claude Code
 - [image-tinder](https://github.com/wsamuelw/image-tinder) — Swipe through photos like Tinder — keep the good ones, ditch the rest
 - [slaps](https://github.com/wsamuelw/slaps) — Two-player face-to-face card game for mobile browsers
