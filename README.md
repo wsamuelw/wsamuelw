@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FsCR2hFJnGh18IM/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/l4FsCR2hFJnGh18IM/giphy.gif" width="300" />
 </p>
 
 # Hey, I'm Samuel 👋
