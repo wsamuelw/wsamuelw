@@ -2,9 +2,9 @@
   <img src="https://media.giphy.com/media/l4FsCR2hFJnGh18IM/giphy.gif" width="300" />
 </p>
 
-# Hey, I'm Samuel 👋
+# Hey, I'm Sam 👋
 
-You know how everyone talks about "data-driven decisions" but nobody actually knows where to start? So what I do is build tools that bridge that gap — from churn prediction models to AI-powered market research. In fact, I've spent 10+ years in customer analytics and now build the tools I wish I had back then.
+You know how everyone talks about "data-driven decisions" but nobody actually knows where to start? So what I do is build tools that bridge that gap — from customer churn prediction models to AI-powered analytics. In fact, I've spent 10+ years in customer analytics and now build the AI tools I wish I had back then.
 
 📫 **Let's connect** — [X/Twitter](https://x.com/samuel_wong_) · [LinkedIn](https://www.linkedin.com/in/-samuel-wong/)
 
