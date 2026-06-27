@@ -1,5 +1,7 @@
 ![Alt Text](https://media.giphy.com/media/l4FsCR2hFJnGh18IM/giphy.gif)
 
+<img src="https://media.giphy.com/media/l4FsCR2hFJnGh18IM/giphy.gif" style="max-width: 100%; height: auto;" />
+
 ### Hi there 👋
 
 🔭 **What I do**
