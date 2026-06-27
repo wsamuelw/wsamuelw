@@ -10,7 +10,7 @@ You know how everyone talks about "data-driven decisions" but nobody actually kn
 
 💼 **Consulting:** Founder at datafying, helping businesses with customer analytics (churn prediction, segmentation) and turning data into decisions that elevate customer experience
 
-👨‍🏫 **Mentoring:** 10+ emerging data professionals to be strategic business partners, not technical programmers.
+👨‍🏫 **Mentoring:** 10+ emerging data professionals to become strategic business partners who drive decisions with data
 
 📫 **Let's connect** — [X/Twitter](https://x.com/samuel_wong_) · [LinkedIn](https://www.linkedin.com/in/-samuel-wong/)
 
