@@ -6,6 +6,10 @@
 
 You know how everyone talks about "data-driven decisions" but nobody actually knows where to start? So what I do is build tools that bridge that gap — from customer churn prediction models to AI-powered analytics. In fact, I've spent 10+ years in customer analytics and now build the AI tools I wish I had back then.
 
+🛠️ **Stack:** Claude Code · Python · R · FastAPI · Streamlit · Web APIs
+👨‍🏫 **Mentoring:** 10+ data professionals on business-focused analytics
+💼 **Consulting:** Founder at [Datafying](https://datafying.com.au), helping businesses with customer analytics, churn prediction, segmentation, and turning data into decisions that elevate customer experience
+
 📫 **Let's connect** — [X/Twitter](https://x.com/samuel_wong_) · [LinkedIn](https://www.linkedin.com/in/-samuel-wong/)
 
 ---
