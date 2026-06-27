@@ -12,6 +12,8 @@ You know how everyone talks about "data-driven decisions" but nobody actually kn
 
 👨‍🏫 **Mentoring:** 10+ emerging data professionals to become strategic business partners who drive decisions with data
 
+🔨 **Currently:** AI-powered customer analytics tools and agentic workflows
+
 📫 **Let's connect** — [X/Twitter](https://x.com/samuel_wong_) · [LinkedIn](https://www.linkedin.com/in/-samuel-wong/)
 
 ---
