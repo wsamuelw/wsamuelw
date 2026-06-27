@@ -65,6 +65,4 @@ I'm currently mentoring 10+ rising data professionals – mostly over Google Mee
 - [image-tinder](https://github.com/wsamuelw/image-tinder) — Swipe through photos like Tinder — keep the good ones, ditch the rest
 - [slaps](https://github.com/wsamuelw/slaps) — Two-player face-to-face card game for mobile browsers
 - [noise-monitor](https://github.com/wsamuelw/noise-monitor) — Real-time noise level monitor with personalised spoken alerts
-
-### Course Projects
-- [property-auction-dataviz](https://github.com/wsamuelw/property-auction-dataviz) — Scraping and visualising Melbourne auction results with Leaflet maps
+- [property-auction-dataviz](https://github.com/wsamuelw/property-auction-dataviz) — Melbourne property auctions, mapped — scrape, clean, geocode, and explore on an interactive Leaflet map
