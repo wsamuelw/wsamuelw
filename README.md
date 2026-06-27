@@ -27,13 +27,17 @@ I'm currently mentoring 10+ rising data professionals – mostly over Google Mee
 ## Projects
 
 ### AI & LLM Tools
-- [lux-tts](https://github.com/wsamuelw/lux-tts) — Voice cloning in Google Colab from a short audio sample, no GPU required
+- [mimo-storyteller](https://github.com/wsamuelw/mimo-storyteller) — Multi-character TTS audio story app with karaoke highlighting
+- [mimo-reader](https://github.com/wsamuelw/mimo-reader) — Design custom voices, clone voices, and generate natural speech in your browser
+- [qwen3-tts-voice-clone](https://github.com/wsamuelw/qwen3-tts-voice-clone) — High-quality voice cloning powered by Qwen3-TTS — zero-shot from a single reference audio
+- [qwen3-asr](https://github.com/wsamuelw/qwen3-asr) — Audio transcription with Qwen3-ASR — automatic language detection, word-level timestamps, batch processing
 - [persona](https://github.com/wsamuelw/persona) — Synthetic persona generation and interview skill for Claude Code
 - [melbourne-property-intelligence](https://github.com/wsamuelw/melbourne-property-intelligence) — LLM-powered property market intelligence with RAG, FastAPI, and Streamlit
 
 ### EdTech
-- [how-to-spell](https://github.com/wsamuelw/how-to-spell) — Web app for kids to learn spelling by speaking
-- [money-game](https://github.com/wsamuelw/money-game) — Teach young kids about coins
+- [ai-for-kids](https://github.com/wsamuelw/ai-for-kids) — Fun, interactive course teaching kids aged 5-7 about Artificial Intelligence
+- [how-to-spell](https://github.com/wsamuelw/how-to-spell) — Voice-powered spelling helper for kids — tap the mic, say a word, see it spelled
+- [sql-for-everyone](https://github.com/wsamuelw/sql-for-everyone) — Interactive SQL course for non-technical business professionals
 
 ### Data Science & ML (Python)
 - [autokeras-text-classification](https://github.com/wsamuelw/autokeras-text-classification) — Spam detection and product review analysis with zero architecture decisions
@@ -56,10 +60,11 @@ I'm currently mentoring 10+ rising data professionals – mostly over Google Mee
 - [ggtext](https://github.com/wsamuelw/ggtext) — Rich text in ggplot2 — colour-highlighted titles and styled axis labels
 
 ### Side Projects
+- [puff](https://github.com/wsamuelw/puff) — Progressive web app that helps you quit smoking by simulating the cigarette experience
+- [claude-code-dashboard](https://github.com/wsamuelw/claude-code-dashboard) — Interactive token usage dashboard for Claude Code
 - [image-tinder](https://github.com/wsamuelw/image-tinder) — Swipe through photos like Tinder — keep the good ones, ditch the rest
 - [slaps](https://github.com/wsamuelw/slaps) — Two-player face-to-face card game for mobile browsers
-- [noise-monitor](https://github.com/wsamuelw/noise-monitor) — Real-time noise level monitor using Web Audio API
+- [noise-monitor](https://github.com/wsamuelw/noise-monitor) — Real-time noise level monitor with personalised spoken alerts
 
 ### Course Projects
-- [statistical-learning-data-mining](https://github.com/wsamuelw/statistical-learning-data-mining) — Airbnb Sydney price prediction using statistical learning techniques
 - [proj-auction-results](https://github.com/wsamuelw/proj-auction-results) — Scraping and visualising Melbourne auction results with Leaflet maps
