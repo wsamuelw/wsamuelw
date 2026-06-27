@@ -67,4 +67,4 @@ I'm currently mentoring 10+ rising data professionals – mostly over Google Mee
 - [noise-monitor](https://github.com/wsamuelw/noise-monitor) — Real-time noise level monitor with personalised spoken alerts
 
 ### Course Projects
-- [proj-auction-results](https://github.com/wsamuelw/proj-auction-results) — Scraping and visualising Melbourne auction results with Leaflet maps
+- [property-auction-dataviz](https://github.com/wsamuelw/property-auction-dataviz) — Scraping and visualising Melbourne auction results with Leaflet maps
