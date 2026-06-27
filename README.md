@@ -6,7 +6,7 @@
 
 You know how everyone talks about "data-driven decisions" but nobody actually knows where to start? So what I do is build tools that bridge that gap — from customer churn prediction models to AI-powered analytics. In fact, I've spent 10+ years in customer analytics and now build the AI tools I wish I had back then.
 
-🛠️ **Stack:** Claude Code | Hermes Agent Desktop | Codex | Firebase | Vercel | SQL | Python | R 
+🛠️ **Stack:** Claude Code · Hermes · Codex (AI) | Python · R · SQL (Data) | Firebase · Vercel (Infra)
 
 💼 **Consulting:** Founder at datafying, helping businesses with customer analytics (churn prediction, segmentation) and turning data into decisions that elevate customer experience
 
