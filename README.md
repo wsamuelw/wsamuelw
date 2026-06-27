@@ -1,12 +1,26 @@
 <p align="center">
-  <img src="https://media.giphy.com/media/l4FsCR2hFJnGh18IM/giphy.gif" width="150" />
+  <img src="https://media.giphy.com/media/l4FsCR2hFJnGh18IM/giphy.gif" />
 </p>
 
-# Hey, I'm Samuel 👋
+### Hi there 👋
 
-You know how everyone talks about "data-driven decisions" but nobody actually knows where to start? So what I do is build tools that bridge that gap — from churn prediction models to AI-powered market research. In fact, I've spent 10+ years in customer analytics and now build the tools I wish I had back then.
+🔭 **What I do**
+Building AI products, mentoring early-career data professionals, and consulting on data science & AI strategy.
 
-📫 **Let's connect** — [X/Twitter](https://x.com/samuel_wong_) · [LinkedIn](https://www.linkedin.com/in/-samuel-wong/)
+🌱 **Currently exploring**
+Claude Code, Hermes Agent Desktop, Codex, MCP, and agentic workflows.
+
+👯 **Looking to collaborate on**
+Real-world DS/AI projects, open‑source tools, and knowledge‑sharing content (blogs, talks, workshops).
+
+💬 **Ask me about**
+Data science career growth, LLM‑powered applications, or turning messy data into decisions.
+
+📫 **Let's connect**
+[X/Twitter](https://x.com/samuel_wong_) · [LinkedIn](https://www.linkedin.com/in/-samuel-wong/)
+
+⚡ **Fun fact**
+I'm currently mentoring 10+ rising data professionals – mostly over Google Meet and an unhealthy amount of coffee ☕
 
 ---
 
