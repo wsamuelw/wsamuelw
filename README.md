@@ -8,7 +8,7 @@ You know how everyone talks about "data-driven decisions" but nobody actually kn
 
 🛠️ **Stack:** Claude Code | Hermes Agent Desktop | Codex | Firebase | Vercel | SQL | Python | R 
 
-💼 **Consulting:** Founder at datafying, helping businesses with customer analytics e.g. churn prediction, segmentation, and turning data into decisions that elevate customer experience
+💼 **Consulting:** Founder at datafying, helping businesses with customer analytics (churn prediction, segmentation) and turning data into decisions that elevate customer experience
 
 👨‍🏫 **Mentoring:** 10+ emerging data professionals to be strategic business partners, not technical programmers.
 
